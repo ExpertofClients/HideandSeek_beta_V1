@@ -1,0 +1,13 @@
+name: HideAndSeek
+version: '1.0-SNAPSHOT'
+main: de.expertofclients.hideandseek.Main
+api-version: '1.20'
+
+commands:
+  randompick:
+    permission:
+      - test.*
+      - test.neu
+  pickSeeker:
+  stopHideandSeek:
+  HasConfig:
